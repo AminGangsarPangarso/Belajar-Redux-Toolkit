@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amin",
+      "deskripsi": "saya amin saya adalah web developer "
+    },
+    {
+      "id": 2,
+      "name": "rere",
+      "deskripsi": "saya rere  saya adalah client"
+    },
+    {
+      "id": 3,
+      "name": "Asep",
+      "deskripsi": "saya Asep saya adalah Project Manager "
+    },
+    {
+      "id": 4,
+      "name": "rere",
+      "deskripsi": "saya rere  saya adalah client"
+    },
+    {
+      "id": 5,
+      "name": "naruto",
+      "deskripsi": "saya naruto  saya adalah backend "
+    }
+  ]
+}
